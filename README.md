@@ -1,21 +1,38 @@
 **Welcome to Sai Bharadwaja Chilukuri GitHub Repository**
 
-👋 Hi there! I'm Sai Bharadwaja Chilukuri, an Results-driven IT professional passionate about cloud computing, DevOps, and Python. Currently, I'm working in LTI Mindtree-Hyderabad, where I'm working on a variety of exciting projects involving AWS services, DevOps, Python development, and containerization technologies.  
+👋 Hi there! I'm Sai Bharadwaja Chilukuri, a Results-driven IT professional passionate about Cloud Computing, DevOps, and Python. Currently, I'm working in LTI Mindtree-Hyderabad as a DevOps Engineer, where I'm working on a variety of exciting projects involving AWS services, DevOps, Python development, and containerization technologies.  
 
 **🔧 Skills**
 
-**Programming Languages:** Python
 **AWS Services:** Lambda, CodeBuild, CodeDeploy, CodePipeline, Elastic Beanstalk, ECS, EKS, Terraform, CloudFront, DynamoDB
 **Containerization:** Docker, Kubernetes
 **DevOps:** Continuous Integration/Continuous Deployment (CI/CD), Automation, GIT, Jenkins, Ansible, Tomcat, Maven, Sonarqube
+**Programming Languages:** Python
 
 **🛠️ Projects**
 
-Project 1: Project Name 1
-Description of the project and your role in it.
+Project : Allegiant Air
+Roles and Responsibilities : 
 
-Project 2: Project Name 2
-Description of the project and your role in it.
+Installation and configuration of GIT, merging code from develop branch to master branch and make it ready for deployment.
+
+I achieved the implementation of DevOps best practices, leading to a 20% reduction in system downtime by Creating a CI/CD pipeline using tools like Jenkins that pipeline should automatically build, test, and deploy a sample application to a staging environment, followed by an automated deployment to production upon approval.
+
+And also achieving a 25% reduction-- building a security-focused DevOps pipeline integrating security tools like SonarQube to automatically scan the code for vulnerabilities during the CI/CD process.
+
+Elevated the success rate of continuous integration pipelines to 95% by implementing automated testing suites, reducing the number of defects in releases.
+Improved collaboration between development and operations teams, and faster release cycles.
+
+Monitoring daily builds using CI tool Jenkins.
+
+Creating Docker images and Docker files as per requirement.
+
+Kubernetes is being used to orchestrate the deployment, scaling and management of 
+Docker Containers.
+
+Verify Deployment logs to check for successful deployments.
+
+Launching Amazon EC2 Cloud Instances using Amazon Web Services(AWS) and configuring launched instances with respect to specific applications.
 
 **📚 Education**
 
@@ -27,23 +44,18 @@ I'm enthusiastic about staying up-to-date with the latest developments in cloud 
 
 **📫 Let's Connect**
 
-LinkedIn: Your LinkedIn Profile
-IG: Your IG Name
-FB: Your FB Name
+LinkedIn: 
+IG: https://www.instagram.com/_b_h_a_r_a_d_w_a_j_a_/ 
+FB: [Sai Bharadwaja Chilukuri](https://www.facebook.com/saibharadwaja.chilukuri/)
 
 **🌐 Online Presence**
 
-AWS DevOps with Python (https://awsdevopssai.blogspot.com/) : Share your insights and experiences in tech.
-Portfolio Website: Explore more about my work and projects.
-
-**🏆 Achievements**
-
-Mention any relevant certifications, awards, or recognition.
+Blog : (https://awsdevopssai.blogspot.com/)
+Portfolio Website: [Explore more about my work and projects.](https://www.awsdevopssai.co.in/)
 
 **📖 Certifications**
 
-AWS Certified [Your Certification]
-Any other relevant certifications
+Completed Internal Organization Certifications on GIT, Basics of DevOps.
 Feel free to explore my repositories, and don't hesitate to reach out if you have questions or just want to connect!
 
 Happy coding! 🚀
